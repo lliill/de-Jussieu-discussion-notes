@@ -1,0 +1,15 @@
+Compte de discussion
+Fondement des outils de probabilité (Tribu de Jussieu)
+
+Peut-on modifier la définition de tribu mais avoir quand même une probabilité qui marche?
+
+重点在第三条：
+stabilité d’intersection infinie dénombrable
+1.可不可以扩大： 变成infini indémontrable
+可不可以缩小：只要fini
+
+为了现实需要，比如测量下一秒（或者明天）发生的事，这个集合的cardinal是怎么样的？
+0. 和Q等势（那么原有的定义足够了 1.还是和R等势 
+2.还是只是有限的
+
+大龟同学提出了densité approché论，认为所有的需要的东西都可以用densité 来approcher。我表示反对，因为这样等于忽视R乃至更广泛的indémodable的存在
